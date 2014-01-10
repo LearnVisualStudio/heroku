@@ -1,0 +1,30 @@
+{
+  "name": "heroku",
+  "version": "0.0.0",
+  "description": "This example app is so cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Hi\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LearnVisualStudio/heroku.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "bob tabor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LearnVisualStudio/heroku/issues"
+  },
+  "homepage": "https://github.com/LearnVisualStudio/heroku",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  },
+    "engines": {
+        "node": "0.10.x"
+    }
+}
